@@ -1,0 +1,137 @@
+
+.site-header {
+      background-color: rgb(71, 82, 134);
+      color: rgb(252, 252, 252);
+      height: 50px;
+      padding: 25px 5%;
+      box-shadow: 0 1px 3px #858282;
+      font-family: 'Luckiest Guy', cursive;
+      font-size: 60px ;
+}
+body {
+      
+      margin: 0px;
+      background: radial-gradient(circle,black, #ffffff);
+      
+}
+.my-pic {
+     background:rgb(90, 92, 99);
+     width: 1fr;
+     padding: 1rem;
+     color: gainsboro;
+}
+.mypic {
+      
+      max-width: 400px;
+      height: 300px;
+      object-fit: cover;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      
+}
+.firstP {
+       width: 2000px;
+       margin: 0 auto;
+       margin-left: 0 auto;
+       font-family: "Helvetica Neue", "Arial", sans-serif;
+       font-style: italic;
+       font-weight: 50;
+       font-variant-ligatures: normal;
+       font-size: 1rem;
+       letter-spacing: 1px;
+}
+.secondP {
+      font-style: italic;
+}
+h1   {
+      text-shadow: 3px 3px 5px rgb(95, 100, 151);
+      font-family: 'Kaushan Script', cursive;
+      font-size:60px; 
+      font-weight: 200; 
+      background-color: rgb(192, 189, 189);
+        outline-style: outset;
+        margin: 0%;
+        
+}
+#h2{
+      font-style: italic;
+      font-size: 15px;
+      color: rgb(197, 192, 192);
+}
+  h2 {
+      
+      font-family: palatino;
+      font-size: 28px;
+      border-bottom: 1px solid black;
+      text-shadow: 3px 3px 5px snow;
+}
+ #h3
+ {font-style: italic;
+      font-size: 16px;
+      color: rgb(197, 192, 192);
+}
+h3 {
+      font-family:palatino;
+      font-size:28px;
+      border-bottom: 1px solid black;
+      text-shadow: 3px 3px 5px snow;
+      }
+ #h4 {
+       color: rgb(219, 215, 215);
+      }
+h4 {
+      font-family:palatino;
+      font-size:25px;
+      border-bottom: 1px solid black;
+      text-shadow: 3px 3px 5px snow;
+      }
+ ul {
+            list-style-type: square
+      }
+
+h5 {
+      font-family:palatino;
+      font-size:30px;
+      border-bottom: 1px solid black;
+      text-shadow: 3px 3px 5px snow;
+}
+h6 {
+      font-family:palatino;
+      font-size:30px;
+      border-bottom: 1px solid black;
+      text-shadow: 3px 3px 5px snow;
+}
+#h6 {
+      font-size: 15px;
+      font-variant: small-caps;   
+}
+
+#Languages {
+      font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+#Languages td, #customers th {
+      border: 1px solid rgb(131, 128, 128);
+      padding: 8px;
+    }
+    
+#Languages tr:nth-child(even){background-color: #858282;}
+    
+#Languages tr:hover {background-color: #ddd;}
+    
+#Languages th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color:rgb(83, 80, 80);
+      color: white;
+    }
+ footer {
+          min-height: 50px;
+          position: relative;
+          margin-top: -100px;
+          display:block;
+          background-color: #858282;
+          text-align: center;
+ }
